@@ -2,6 +2,8 @@
 
 基礎: データ、データ、どこにでもある
 
+- https://www.coursera.org/learn/foundations-data/home/welcome
+
 # 1週目
 
 
